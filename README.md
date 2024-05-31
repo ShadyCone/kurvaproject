@@ -1,0 +1,2 @@
+# kurvaproject
+for basic kurva
